@@ -37,50 +37,9 @@
 
 <!-- Custom link-tags for different icons
      Generated via https://favicon.io/favicon-generator/ -->
-<style>
-#blog-logo
-{
-     max-height: 200px;
-}
 
-#site-head.withCenteredImage
-{
-     background-color: #000000;
-}
-
-#header-arrow
-{
-     color: #F2EFE8;
-}
-
-body
-{
-     background-color: #000000;
-}
-
-.vertical
-{
-     background-color: #000000;
-}
-
-.post-holder
-{
-     background-color: #000000;
-}
-
-.post-holder.dark
-{
-     background-color: #000000;
-}
-
-.site-footer
-{
-     background-color: #000000;
-}
-
-</style>
-     
 {{ with resources.Get "images/apple-touch-icon.png" }}<link rel="apple-touch-icon" sizes="180x180" href="{{ .RelPermalink }}" />{{ end }}
 {{ with resources.Get "images/favicon.svg" }}<link rel="icon" type="image/svg+xml" href="{{ .RelPermalink }}" />{{ end }}
 {{ range seq 9 4 }}{{ $size := pow 2 . }}{{ $file := replace "images/favicon-##x##.png" "##" $size }}{{ with resources.Get $file }}
 <link rel="icon" type="{{ .MediaType.Type }}" sizes="{{- $size -}}x{{- $size -}}" href="{{ .RelPermalink }}" />{{ end }}{{ end }}
+
