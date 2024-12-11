@@ -1,10 +1,10 @@
 ---
-title: "Contacto"
+title: "Contact"
 weight: 5
 header_menu: true
 ---
 
-¡Contáctanos!
+Contact Us!
 
 {{<contact_list>}}
 

@@ -1,14 +1,15 @@
 ---
-title: "Tu Salud, a tu Medida"
+title: "Soluciones Tecnológicas"
 weight: 1
-header_menu: false
-navigation_menu_title: "Intro" 
+header_menu: true
+header_menu_title: "Soluciones" 
+navigation_menu_title: "Soluciones" 
 ---
 
-- Enfoque de Nutrición **Amable e Intuitiva**
-- Nutrición en base a tus **Necesidades y Posibilidades**
-- Desarrollo de **Hábitos Saludables** Prácticos y Funcionales
+En **Lilas Solutions**, transformamos tus ideas en soluciones tecnológicas a medida.
 
+Nuestro **enfoque personalizado** garantiza que cada herramienta que diseñamos se adapta perfectamente a tus necesidades, impulsando tu éxito y el de tu negocio.
 
+**Innovación, eficiencia y confianza** son el motor de nuestros servicios.
 
-
+*¡Descubre el futuro con nosotros!*
