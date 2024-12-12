@@ -1,66 +1,109 @@
-# Basic config
 baseURL = "https://lilas.solutions"
-theme = "hugo-simple"
-languageCode = "en"                # zh-Hans
-#title = "Lilas Solutions"
-copyright = "© 2024 Lilas Solutions"
 
-# Generate a nice robots.txt for SEO
-enableRobotsTXT = true
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-# https://github.com/gohugoio/hugo/issues/12152
-capitalizeListTitles = false
+defaultContentLanguage = "es"
 
-# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy"]
-# ignoreErrors = ["error-disable-taxonomy"]
-[taxonomies]
-tag = "tags"
+# The name of this wonderful theme ;-).
+theme = "hugo-scroll"
 
-[permalinks]
-blog = "/:slugorfilename/"
-tags = "/blog/:slug"
-
-[markup.goldmark.renderer]
-unsafe = true
-[markup.tableOfContents]
-startLevel = 2
-endLevel = 3
-[markup.highlight]
-lineNos = true
-lineNumbersInTable = false
-noClasses = true
-style = "catppuccin-mocha"
-
-[params]
+# The browser tab name
 title = "Lilas Solutions"
-description = "Lilas Solutions"
-favicon = "images/favicon.png"
-dateFormat = "2006-01-02"
-hideMadeWithLine = true
-hideRSSLink = true
 
-[params.author]
-#name = "Shaolong Chen"
-#email = "shaolong.chen@outlook.it"
+# In order to add version information in the page's footer set to true.
+# enableGitInfo = true
 
-#[[menu.main]]
-#name = "Home"
-#pageRef = "/"
-#weight = 10
-#[[menu.main]]
-#name = "Blog"
-#pageRef = "/blog"
-#weight = 20
+# enable emoji processing in Markdown (valid only for pure markdown content)
+enableEmoji = true
 
-[services.rss]
-limit = 42
+# Theme-specific variables `.Site.Params.myParamName`
+[params]
 
-[pagination]
-pagerSize = 16
+    # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+    favicon = "images/favicon.png"
 
-[outputs]
-# Generate RSS for home only.
-section = ["html"]
-taxonomy = ["html"]
-term = ["html"]
+    # These "images" are used for the structured data templates. This will show up, when
+    # services like Twitter or Slack want to generate a preview of a link to your site.
+    # See https://gohugo.io/templates/internal#twitter-cards and https://gohugo.io/templates/internal#open-graph.
+    # NOT the actual header background image, go to _index.md instead
+    images = ["images/cover-image-social.jpg"]
+
+    # When set true, it creates a visual guard (partially transparent rounded box), preventing non-ideal background images from interfering with title/description headings
+    # Ideal images are homogenous around the centre and contrasting to the text.
+    # see CSS classes: .title-and-description-guard, .blog-title, .blog-description
+    # see _index.md header_headline and header_subheadline
+    title_guard = false
+
+    # Another "title" :-). This one is used as the site_name on the Hugo's internal
+    # opengraph structured data template.
+    # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+    title = "Lilas Solutions"
+
+    # The "description" of your website. This is used in the meta data of your generated html.
+    description = "Soluciones Tecnológicas Personalizadas"
+
+    # Show a menu of languages available
+    language_menu = true
+
+    # Show also a language menu item for the current language, if false only
+    # show the remaining languages
+    show_current_lang = true
+
+    # A "copyright"-line to be added at the bottom of the page.
+    # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
+    copyright = "© 2024 Lilas Solutions"
+
+    # This theme will, by default, inject a design-by-line at the bottom of the page.
+    # You can turn it off, but we would really appreciate if you don’t :-)
+    hidedesignbyline = false
+
+    # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
+    invertSectionColors = false
+
+    # Options used for automatic image generation. see: https://gohugo.io/content-management/image-processing/
+    image_options = "webp q90 lanczos photo"
+
+    # Use "page_title | site_title" for <title> tags
+    # e.g. <title>Legal | Jane Doe - Nutrition Coach & Chef Consultant</title>
+    combine_page_and_site_title = true
+
+    [params.footer]
+    # Show contact icons for email/phone (if specified) in the footer of the page
+    showContactIcons = true
+
+    # Show links indicated with footer_menu and footer_menu_title in the footer of the page
+    showFooterLinks = true
+
+    [params.meta]
+        keywords = "technology, solutions, innovation, digital, software, development, automatization, consulting, business, companies, future"
+
+#    [[params.contacts]]
+#        label = "Instagram"
+#        value = "lilas.solutions"
+#        url = "https://instagram.com/lilas.solutions"
+#        icon = "fa-brands fa-instagram"
+
+    [[params.contacts]]
+        label = "Mail"
+        value = "contact@lilas.solutions"
+        url = "mailto:contact@lilas.solutions"
+        icon = " fa fa-envelope"
+
+    # Add additional contacts here!
+    # [[params.contacts]]
+    #     label = ""
+    #     value = ""
+    #     url = ""
+    #     icon = ""
+
+# Define additional languages
+[languages]
+  [languages.es]
+    weight = 10
+    languageName = "Español"
+    contentDir = "content/es"
+  [languages.en]
+    weight = 20
+    languageName = "English"
+    contentDir = "content/en"
