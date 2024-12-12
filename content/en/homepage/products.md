@@ -2,9 +2,28 @@
 title: "Products"
 weight: 3
 header_menu: true 
-draft: true
 ---
 
-{{< product_brief icon="stars_icon.png" name="Stars" screenshot="stars_screenshot.png" description="Stars are cool oiwqeruy qowieury qwoieury qower" >}}
+Check our featured products!
 
-{{< product_brief icon="stars_icon.png" name="Mini Business" screenshot="stars_screenshot.png" description="Stars are cool oiwqeruy qowieury qwoieury qower" >}}
+{{< product_gallery >}}
+
+{{< product_brief
+    class="card-dark"
+    icon="/images/stars-icon.png" 
+    name="Stars" 
+    more_info_url="stars"
+    more_info="More info..."
+    brief="Grant and track rewards for your kids" 
+>}}
+
+{{< product_brief 
+    class="card-dark"
+    icon="/images/minibiz-icon.png"
+    name="Mini Business"
+    more_info_url="minibiz"
+    more_info="More info..."
+    brief="Manage sales and purchases" 
+>}}
+
+{{< /product_gallery >}}

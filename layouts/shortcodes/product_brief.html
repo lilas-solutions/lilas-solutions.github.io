@@ -1,1 +1,7 @@
-<p>{{ .Get "name" }}</p>
+<div class='card {{ .Get "class" }}'><a href='{{ .Get "more_info_url" }}'>
+    <img class="product-icon" alt='{{ .Get "name" }}' src='{{ .Get "icon" }}'/>
+    <div class="card-body ">
+        <p class="card-header">{{ .Get "name" }}</p>
+        <p>{{ .Get "brief" }}</p>
+    </div>
+</a></div>
