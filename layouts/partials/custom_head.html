@@ -6,7 +6,7 @@
 .product-icon
 {
     max-height: 100px;
-    padding-bottom: 5px;
+    vertical-align: middle;
 }
 
 .card
@@ -16,16 +16,16 @@
     display: flex;
     position: relative;
     flex-direction: column;    
-    min-width: 200px;
+    min-width: 250px;
     border-radius: 20px;
-    width: 200px;
+    width: 250px;
 }
 
 .card-dark
-    {
-          background-color: var(--section-light-bg-color);
-          color: var(--section-light-text-color);
-    }
+{
+    background-color: var(--section-light-bg-color);
+    color: var(--section-light-text-color);
+}
 
 .card-light
 {
@@ -57,6 +57,68 @@
           text-decoration: none;
      }
 }
+
+.card-product-screenshot
+{
+    background-color: black;
+    border-radius: 10px;
+    border-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.product-screenshot
+{
+    height: 300px;
+}
+
+a.btn {
+    text-decoration: none;
+    background-color: var(--highlight);
+    color: var(--highlight-contrast);
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    display: inline-block;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 0;
+    overflow: visible;
+    padding: 10px 20px 10px 20px;
+    position: relative;
+    margin-top: 2rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+
+    &:hover {
+      color: var(--highlight-inverse-contrast);
+      background-color: var(--highlight-inverse);
+    }
+  }
+
+.product-page
+{
+    background-color: var(--single-page-bg-color);
+  color: var(--single-page-text-color);
+  min-height: calc(100vh - 2em);
+
+  .post {
+    margin-top: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+    padding-bottom: 1em;
+  }
+
+  .post:after {
+    display: none;
+  }
+
+  .post-header {
+    padding: 10px 0;
+  }
+
+}
+  
 
 </style>
 

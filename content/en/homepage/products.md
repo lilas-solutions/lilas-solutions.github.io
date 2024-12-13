@@ -6,24 +6,22 @@ header_menu: true
 
 Check our featured products!
 
-{{< product_gallery >}}
+{{< card_row >}}
 
-{{< product_brief
+{{< card
     class="card-dark"
     icon="/images/stars-icon.png" 
     name="Stars" 
     more_info_url="stars"
-    more_info="More info..."
-    brief="Grant and track rewards for your kids" 
+    brief="Manage your children's incentives by setting goals, streaks, rewards, etc." 
 >}}
 
-{{< product_brief 
+{{< card 
     class="card-dark"
     icon="/images/minibiz-icon.png"
     name="Mini Business"
     more_info_url="minibiz"
-    more_info="More info..."
-    brief="Manage sales and purchases" 
+    brief="Manage and plan the budget of your business, whether it is a product and/or service" 
 >}}
 
-{{< /product_gallery >}}
+{{< /card_row >}}

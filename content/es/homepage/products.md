@@ -6,25 +6,25 @@ header_menu: true
 
 ¡Revisa nuestros productos destacados!
 
-{{< product_gallery >}}
+{{< card_row >}}
 
-{{< product_brief
+{{< card
     class="card-dark"
     icon="/images/stars-icon.png" 
     name="Estrellas" 
     more_info_url="stars"
-    brief="Maneja premios para tus hijos" 
+    brief="Maneja los incentivos de tus hijos, estableciendo metas, rachas, premios, etc." 
 >}}
 
-{{< product_brief 
+{{< card 
     class="card-dark"
     icon="/images/minibiz-icon.png"
     name="Mini Empresa"
     more_info_url="minibiz"
-    brief="Administra compras y ventas de tu empresa" 
+    brief="Administra y planifica las compras y ventas de tu emprendimiento (productos y servicios)" 
 >}}
 
-{{< /product_gallery >}}
+{{< /card_row >}}
 
 
 
