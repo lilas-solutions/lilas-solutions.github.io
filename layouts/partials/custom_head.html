@@ -1,42 +1,127 @@
 <!-- A partial to be overwritten by the user.
      Its content will appear before the closing </head>-tag -->
 
-
-<!-- Custom CSS via inline styles
-     You may use this template to add custom CSS to your site like so: -->
-<!--
 <style>
-:root {
-    /* see variables.scss for more variables*/
 
-    /*
-    --section-light-text-color: #3a4145!important;
-    --section-light-bg-color: #ffdb8c!important;
-    --section-dark-bg-color: #035e00!important;
-    */
-
-     /* define list element for unnumbered lists, leave empty for default list element */
-     /* fa-asterisk is the default icon if this variable definition is missing completely */
-     --ul-li-icon: fa-dashcube;     /* this sets fa-dashcube as list icon */
-     --ul-li-icon: ;                /* this sets the default html list icon */
+.product-icon
+{
+    max-height: 100px;
+    vertical-align: middle;
 }
+
+.card
+{
+    margin: 10px;
+    padding: 15px;
+    display: flex;
+    position: relative;
+    flex-direction: column;    
+    min-width: 250px;
+    border-radius: 20px;
+    width: 250px;
+}
+
+.card-dark
+{
+    background-color: var(--section-light-bg-color);
+    color: var(--section-light-text-color);
+}
+
+.card-light
+{
+     background-color: var(--section-dark-bg-color);
+     color: var(--section-dark-text-color);
+}
+
+.card-gallery
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card-header
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+.card
+{
+     font-size: medium;
+     
+     a
+     {
+          text-decoration: none;
+     }
+}
+
+.card-product-screenshot
+{
+    background-color: black;
+    border-radius: 10px;
+    border-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.product-screenshot
+{
+    height: 300px;
+}
+
+a.btn {
+    text-decoration: none;
+    background-color: var(--highlight);
+    color: var(--highlight-contrast);
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    display: inline-block;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin: 0;
+    overflow: visible;
+    padding: 10px 20px 10px 20px;
+    position: relative;
+    margin-top: 2rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+
+    &:hover {
+      color: var(--highlight-inverse-contrast);
+      background-color: var(--highlight-inverse);
+    }
+  }
+
+.product-page
+{
+    background-color: var(--single-page-bg-color);
+  color: var(--single-page-text-color);
+  min-height: calc(100vh - 2em);
+
+  .post {
+    margin-top: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+    padding-bottom: 1em;
+  }
+
+  .post:after {
+    display: none;
+  }
+
+  .post-header {
+    padding: 10px 0;
+  }
+
+}
+  
+
 </style>
--->
 
-<!-- Custom CSS via "custom.css"-file
-     If you would rather place your custom CSS into
-     a separate file, create a "custom.css" in your
-     local "static/css"-directory. Then add a <link>-tag
-     referencing your "custom.css" like so: -->
-
-<!-- <link rel="stylesheet" href='{{ "css/custom.css" | absURL }}'> -->
-
-<!-- Custom CSS: Color Codes
-     You may checkout https://htmlcolorcodes.com/ to get those
-     weird color codes (like "#22343A") ;-). -->
-
-<!-- Custom link-tags for different icons
-     Generated via https://favicon.io/favicon-generator/ -->
 
 {{ with resources.Get "images/apple-touch-icon.png" }}<link rel="apple-touch-icon" sizes="180x180" href="{{ .RelPermalink }}" />{{ end }}
 {{ with resources.Get "images/favicon.svg" }}<link rel="icon" type="image/svg+xml" href="{{ .RelPermalink }}" />{{ end }}
