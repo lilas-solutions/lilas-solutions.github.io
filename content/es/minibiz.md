@@ -10,14 +10,14 @@ screenshots:
     - "/images/es/screenshot-minibiz-purchases-es.jpeg"
 ---
 
-This app is so cool
+¡Gestiona tu negocio de manera eficiente con **Mini Empresa**! Esta aplicación ha sido diseñada para emprendedores y pequeños negocios que necesitan una herramienta simple y poderosa para organizar sus operaciones diarias.
 
-This app is so cool
+#### Características Principales
 
-This app is so cool
+- **Gestión de ventas y compras**: Registra productos vendidos o comprados, precios, métodos de pago y fechas de entrega.
+- **Control de gastos**: Lleva un seguimiento detallado de tus gastos para una mejor planificación financiera.
+- **Gestión de clientes y proveedores**: Guarda contactos, direcciones y otra información clave de tus socios comerciales.
+- **Reportes y resúmenes**: Genera informes claros que te ayudarán a tomar decisiones estratégicas para tu negocio.
+- **Interfaz intuitiva**: Diseñada para que puedas gestionar tu negocio de manera fácil y sin complicaciones técnicas.
 
-#### Principales Caractrísticas
-
-- aaaa
-- bbb
-- ccc
+Con **Mini Empresa**, podrás optimizar tu tiempo, mejorar tu organización y concentrarte en hacer crecer tu negocio. ¡Empieza hoy mismo y lleva el control completo de tus operaciones!
