@@ -10,7 +10,7 @@ header_logo: "images/logo-square-transparent.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "LILAS SOLUTIONS"
-header_subheadline: "You have a tech idea... we build your solution."
+header_subheadline: "You imagine the idea, we create the technological solution."
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
