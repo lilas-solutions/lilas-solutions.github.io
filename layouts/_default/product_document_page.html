@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <main class="content product-page page-{{ .Slug }}">
+    <article class="post page">
+      <header class="post-header">
+        {{ range where .Site.Pages "RelPermalink" (.Params.parent | relLangURL ) }}
+        <a id="back-to-product-page" href="{{ .RelPermalink | relLangURL }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> {{ .Title }}</a>
+        {{ end }}
+      </header> 
+      <h1 class="post-title"><img src='{{ .Param "icon" }}' class="product-icon"> {{ .Title }}</h1>
+      <section class="post-content">        
+        {{ .Content }}
+      </section>
+    </article>
+  </main>
+{{ end }}

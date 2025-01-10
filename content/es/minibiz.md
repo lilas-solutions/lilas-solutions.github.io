@@ -21,3 +21,5 @@ screenshots:
 - **Interfaz intuitiva**: Diseñada para que puedas gestionar tu negocio de manera fácil y sin complicaciones técnicas.
 
 Con **Mini Empresa**, podrás optimizar tu tiempo, mejorar tu organización y concentrarte en hacer crecer tu negocio. ¡Empieza hoy mismo y lleva el control completo de tus operaciones!
+
+Revisa los [Términos de Servicio](minibiz-terms-service) y la [Política de Privacidad](minibiz-privacy-policy) para más información.
