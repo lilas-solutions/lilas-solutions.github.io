@@ -21,3 +21,5 @@ Manage your business efficiently with **Mini Business**! This app is designed fo
 - **Intuitive Interface**: Designed to help you manage your business effortlessly without technical complexities.  
 
 With **Mini Business**, you can save time, improve organization, and focus on growing your business. Start today and take full control of your operations!
+
+Check the [Terms of Service](minibiz-terms-service) and the [Privacy Policy](minibiz-privacy-policy) for more information.

@@ -1,60 +1,77 @@
 ---
-title: "Mini Business - Privacy Policy"
+title: "Privacy Policy - Mini Business"
+layout: product_document_page
+parent: minibiz/
 ---
 
-Effective Date: December 12th, 2024  
+Effective Date: January 10th, 2025
 
-At **Lilas Solutions**, your privacy is of utmost importance to us. This Privacy Policy outlines how we collect, use, and protect your data. By using the Mini Business application, you agree to the terms outlined in this policy. If you have any questions or concerns, please contact us at **contact@lilas.solutions**.  
-
----
-
-## 1. Information We Collect  
-The **Mini Business** application collects the following types of data:  
-- **Sales and Purchases Details**: Information such as products sold or purchased, prices, payments, and delivery dates.  
-- **Client and Provider Information**: Contact details, names, and addresses of clients and providers.  
-
-All data collected is directly input by the user into the application.  
+At **Lilas Solutions**, your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information. By using Mini Business, you agree to the practices outlined in this policy. If you have any questions, please contact us at **contact@lilas.solutions**.
 
 ---
 
-## 2. How We Use Your Information  
-The collected data is used to:  
-- Generate summaries and reports to help users make informed business decisions.  
-- Provide features and functionality necessary for managing business activities effectively.  
+### 1. Information We Collect
+
+**Mini Business** stores data that users directly input into the application. This includes:
+- **Sales and Expenses Details**: Products sold or purchased, prices, payments, and delivery dates.
+- **Client and Provider Information**: Names, contact details, and addresses of clients and providers.
+
+We do not collect any data automatically or from third-party sources.
 
 ---
 
-## 3. Data Storage  
-Data is stored in:
-- **Local Files**: On the user’s device for immediate access.  
+### 2. How We Use Your Information
+
+The data collected is used solely to:
+- Generate summaries and reports to help users make informed business decisions.
+- Provide essential functionalities of the application.
+
+We do not use your data for advertising or marketing purposes.
 
 ---
 
-## 4. Data Sharing  
-We do not share your data with any third parties. All data remains confidential and accessible only to you.  
+### 3. Data Storage and Security
+
+- **Local Storage**: Data is stored on your device to ensure offline functionality.
+- **Cloud Storage**: For users who enable online features, data is stored securely in a private database.
+
+We implement appropriate technical and organizational measures to protect your data from unauthorized access, disclosure, alteration, or destruction.
 
 ---
 
-## 5. Security Measures  
-We implement appropriate technical and organizational measures to safeguard your data against unauthorized access, alteration, disclosure, or destruction.  
+### 4. Data Sharing
+
+We do not share your data with third parties. All information remains confidential and is accessible only to you.
 
 ---
 
-## 6. User Responsibilities  
-You are responsible for safeguarding access to your device and ensuring that the information you input into the app is accurate and up to date.  
+### 5. User Responsibilities
+
+As a user of Mini Business, you are responsible for:
+- Ensuring the accuracy of the data you input into the app.
+- Safeguarding access to your device and the application.
+- Reporting any unauthorized use or security breaches promptly.
 
 ---
 
-## 7. Changes to This Privacy Policy  
-We may update this Privacy Policy from time to time. Any changes will be communicated through the app or other appropriate means. Please review this policy periodically to stay informed.  
+### 6. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be communicated through the application’s initial screen. Continued use of the app after such changes signifies your acceptance of the updated policy.
 
 ---
 
-## 8. Contact Us  
-If you have any questions or concerns regarding this Privacy Policy, please contact us:  
-    **Lilas Solutions SpA**  
-Email: **contact@lilas.solutions**  
+### 7. Governing Law
 
---- 
+This Privacy Policy is governed by the laws of Chile. Any disputes arising from this policy shall be resolved in the courts of Chile.
+
+---
+
+### 8. Contact Us
+
+If you have any questions, concerns, or feedback about this Privacy Policy, please contact us:
+- **Lilas Solutions SpA**
+- **Email**: contact@lilas.solutions
+
+---
 
 Thank you for trusting **Mini Business** to support your business needs.
