@@ -6,7 +6,7 @@ parent: studybot/
 
 Effective Date: May 12, 2025
 
-**Lilas Solutions SpA**("we," "us," or "our") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our Study-bot application available on iOS, Android, and the web at lilas.solutions. By using Study-bot, you agree to the practices outlined in this policy. If you have any questions, please contact us at **contact@lilas.solutions**.
+**Lilas Solutions SpA**("we," "us," or "our") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our **Study-bot** application available on iOS, Android, and the web at lilas.solutions. By using **Study-bot**, you agree to the practices outlined in this policy. If you have any questions, please contact us at **contact@lilas.solutions**.
 
 ---
 
@@ -33,7 +33,7 @@ These measures ensure compliance with the Children’s Online Privacy Protection
 
 **Minor Account Restrictions** 
 
-To further protect minors, Study-bot imposes the following restrictions on users under 18 years old:
+To further protect minors, **Study-bot** imposes the following restrictions on users under 18 years old:
 - Limited app functionality to prevent access to sensitive features
 - Enhanced privacy protections tailored for minors
 - Minimal personal information is collected and stored for minor accounts
