@@ -1,136 +1,176 @@
 ---
-title: "Privacy Policy - Study-bot"
+title: "Política de Privacidad - Estudi-bot"
 layout: product_document_page
 parent: studybot/
 ---
 
-Effective Date: May 12, 2025
 
-**Lilas Solutions SpA**("we," "us," or "our") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our **Study-bot** application available on iOS, Android, and the web at lilas.solutions. By using **Study-bot**, you agree to the practices outlined in this policy. If you have any questions, please contact us at **contact@lilas.solutions**.
+# Política de Privacidad de Estudi-bot
+
+*Última actualización: 12 de mayo de 2025*
+
+Lilas Solutions SpA ("nosotros," "nos," o "nuestro") respeta su privacidad y está comprometida a proteger su información personal. Esta Política de Privacidad explica cómo recopilamos, usamos y salvaguardamos sus datos cuando usted utiliza nuestra aplicación **Estudi-bot** disponible en iOS, Android y la web en [lilas.solutions](https://lilas.solutions). Al usar **Estudi-bot**, usted acepta las prácticas descritas en esta política.  
+Si tiene alguna pregunta, contáctenos en [contact@lilas.solutions](mailto:contact@lilas.solutions).
 
 ---
 
-### 1. Information We Collect
+## 1. Información que Recopilamos
 
-**Children’s Privacy and Parental Consent**
+### Privacidad de los Niños y Consentimiento Parental
 
-If you are under 18 years of age, **Study-bot** requires that your parent or legal guardian register and create an account on your behalf before you can use the app. This helps us comply with applicable laws regarding the protection of children’s personal information. Parents or guardians are responsible for supervising their child’s use of **Study-bot** and managing their account information.
+- Si usted tiene menos de 18 años, **Estudi-bot** requiere que su padre o tutor legal se registre y cree una cuenta en su nombre antes de que pueda usar la aplicación. Esto nos ayuda a cumplir con las leyes aplicables sobre la protección de la información personal de los niños.
+- Los padres o tutores son responsables de supervisar el uso de **Estudi-bot** por parte de su hijo/a y de administrar la información de su cuenta.
 
+**Disposiciones especiales para menores incluyen:**
 
-Special provisions for minors include:
-- Users under 18 years of age require parental/guardian consent
-- Parent/guardian must complete initial registration
-- Parental verification process mandatory for minor accounts
-- Limited data collection for users under 18
+- Los usuarios menores de 18 años necesitan el consentimiento de un padre/tutor.
+- El padre/tutor debe completar el registro inicial.
+- El proceso de verificación parental es obligatorio para cuentas de menores.
+- Recopilación limitada de datos para usuarios menores de 18.
 
-If you are under 18, your parent or legal guardian must register and create an account on your behalf before you can use **Study-bot**. As part of this parental consent process, the parent or guardian will:
-- Verify the child’s account to confirm their identity
-- Provide explicit consent for the collection and processing of the child's personal data
-- Review and manage the child’s account settings, including privacy preferences
-- Have the option to delete the child’s account and all associated data at any time
+Si usted es menor de 18 años, su padre o tutor legal debe registrarse y crear una cuenta en su nombre antes de que pueda usar **Estudi-bot**. Como parte de este proceso de consentimiento parental, el padre o tutor:
 
-These measures ensure compliance with the Children’s Online Privacy Protection Act (COPPA) and applicable privacy laws.
+- Verificará la cuenta del menor para confirmar su identidad.
+- Proporcionará consentimiento explícito para la recopilación y procesamiento de los datos personales del menor.
+- Revisará y administrará la configuración de la cuenta del menor, incluidas las preferencias de privacidad.
+- Tendrá la opción de eliminar la cuenta del menor y todos los datos asociados en cualquier momento.
 
-**Minor Account Restrictions** 
+Estas medidas aseguran el cumplimiento de la Ley de Protección de la Privacidad Infantil en Línea o **COPPA** (Children's Online Privacy Protection Act) y las leyes de privacidad aplicables.
 
-To further protect minors, **Study-bot** imposes the following restrictions on users under 18 years old:
-- Limited app functionality to prevent access to sensitive features
-- Enhanced privacy protections tailored for minors
-- Minimal personal information is collected and stored for minor accounts
+### Restricciones para Cuentas de Menores
 
-These safeguards are designed to provide a safe and secure educational experience for younger users.
+Para proteger aún más a los menores, **Estudi-bot** impone las siguientes restricciones a los usuarios menores de 18 años:
 
-**Personal Information**
+- Funcionalidad limitada de la aplicación para prevenir el acceso a características o contenidos sensibles.
+- Mejoras en las protecciones de privacidad adaptadas para menores.
+- Se recopila y almacena información personal mínima para cuentas de menores.
 
-When you register using your Google account, we collect and store the following information:
-- Full name (student or parent/guardian, if applicable, when user is under 18 years of age)
-- Email address (used for authentication)
-- Name of student (if user is under 18)
-- Age of student
-- Gender of student
-- Education level of student
-- Academic details of student such as grades, school/college subjects, and syllabus
+Estas medidas de seguridad están diseñadas para proporcionar una experiencia educativa segura y protegida para los usuarios más jóvenes.
 
-**Study-bot** stores data that users directly input into the application. We do not collect any data automatically or from third-party sources.
+### Información Personal
 
-**Account Information**
+Cuando se registra utilizando su cuenta de Google, recopilamos y almacenamos la siguiente información:
 
-We create a user account linked to your Google OAuth2 login. No manual email or password is required, and only your Google email and authentication information are stored securely.
+- Nombre completo (del estudiante o del padre/tutor, si corresponde, cuando el usuario es menor de 18 años).
+- Dirección de correo electrónico (utilizada para la autenticación).
+- Nombre del estudiante (si el usuario es menor de 18 años).
+- Edad del estudiante.
+- Género del estudiante.
+- Nivel educativo del estudiante.
+- Detalles académicos del estudiante: calificaciones, materias de la escuela/colegio y plan de estudios.
 
-**Device Information**
+**Estudi-bot** almacena datos que los usuarios ingresan directamente en la aplicación.  
+No recopilamos ningún dato automáticamente ni de fuentes externas.
 
-We collect basic device details such as device type, operating system version, and language settings to ensure the app works correctly.
+### Información de la Cuenta
 
-**How We Collect Information**
+Creamos una cuenta de usuario vinculada a su inicio de sesión de Google OAuth2. No se requiere correo electrónico o contraseña manual, y solo se almacenan de forma segura su correo electrónico de Google y la información de autenticación.
 
-We collect information by single-click registration via Google OAuth2, automatic collection during app initialization, and user-provided information during profile setup.
+### Información del Dispositivo
 
-**Usage Information**
+Recopilamos detalles básicos del dispositivo, como tipo de dispositivo, versión del sistema operativo y configuraciones de idioma para asegurar que la aplicación funcione correctamente.
 
-We collect data about how you interact with **Study-bot**, including usage of study tools like flash cards, quizzes, and cheat sheets, to personalize and improve your experience.
+### Cómo Recopilamos Información
 
-### 2. How We Use Your Information
+Recopilamos información mediante el registro de un solo clic a través de Google OAuth2, la recopilación automática durante la inicialización de la aplicación y la información proporcionada por el usuario durante la configuración del perfil.
 
-We use your information to:
-- Authenticate and verify your identity via Google OAuth2
-- Personalize and enhance your study experience
-- Provide educational tools and tailored educational content
-- Track your academic progress
-- Maintain and manage your user account
-- Improve the functionality and performance of the app
+### Información de Uso
 
-We do not use your data for advertising or marketing purposes.
+Recopilamos datos sobre cómo interactúa con **Estudi-bot**, incluyendo el uso de herramientas de estudio como tarjetas didácticas, cuestionarios y resúmenes para personalizar y mejorar su experiencia.
 
-### 3. Data Storage and Security
+---
 
-We implement appropriate technical and organizational measures to protect your data from unauthorized access, disclosure, alteration, or destruction.
-- Your data is stored locally on your device and securely in our cloud backend using Microsoft Azure Table Storage.
-- We use serverless Azure Functions for backend processing.
-- User authentication and account information are secured with Google OAuth2.
-- We do not share your personal data with third parties.
-- Security measures include: encryption and strict access controls to protect your data from unauthorized access, encrypted data storage, and secure Azure cloud infrastructure.
+## 2. Cómo Usamos Su Información
 
-### 4. Data Sharing
+Los datos recopilados se utilizan exclusivamente para:
 
-About third-party sharing, this includes Google OAuth authentication. There is no additional third-party data sharing and no social media integration. All information remains confidential and is accessible only to you.
+- Autenticar y verificar su identidad a través de Google OAuth2.
+- Personalizar y mejorar su experiencia de estudio.
+- Proporcionar herramientas educativas y contenido educativo personalizado.
+- Rastrear su progreso académico.
+- Mantener y gestionar su cuenta de usuario.
+- Mejorar la funcionalidad y el rendimiento de la aplicación.
 
-### 5. User Rights and Choices
+> **No usamos sus datos con fines publicitarios ni de marketing.**
 
-As a user of **Study-Bot**, you can or are responsible for:
-- Access and update your personal information by using the app.
-- Delete your account and all related data at any time.
-- Data retention applies only while your account is active or as required for legal reasons.
+---
 
-### 6. App Availability and Platforms
+## 3. Almacenamiento Seguro de Datos
 
-**Study-bot** is available on multiple platforms to provide seamless access across devices, including iOS and Android mobile apps, as well as through our web platform at **lilas.solutions**. 
+- Implementamos medidas técnicas y organizativas apropiadas para proteger sus datos contra el acceso no autorizado, la divulgación, alteración o destrucción.
+- Sus datos se almacenan localmente en su dispositivo y de forma segura en nuestro backend en la nube utilizando **Microsoft Azure Table Storage**.
+- Utilizamos **Azure Functions** sin servidor para el procesamiento en el backend.
+- La autenticación del usuario y la información de la cuenta están aseguradas con **Google OAuth2**.
+- No compartimos sus datos personales con terceros.
+- Las medidas de seguridad incluyen: cifrado y controles de acceso estrictos para proteger sus datos de accesos no autorizados, almacenamiento de datos cifrados e infraestructura segura de Azure en la nube.
 
-**Study-bot** is currently a free app. In the future, we plan to offer subscription-based features through first-party in-app purchases via Apple Store and Google Play.
+---
 
-### 7. Children's Privacy
+## 4. Compartición de Datos
 
-**Study-bot** is intended for students of various ages. If you are a parent or guardian and believe your child has provided personal data without consent, please contact us at the address below.
+- En cuanto al compartir datos con terceros, esto incluye la autenticación de Google OAuth.
+- No hay intercambio o distribución adicional de datos con terceros ni integración con redes sociales.
+- Toda la información permanece confidencial y es accesible sólo para usted.
 
-### 8. Minor User Policy
+---
 
-**Study-bot** is dedicated to providing a safe and protected digital environment for young learners. We recognize the critical importance of safeguarding minors' online experiences. Our Minor User Policy ensures that parents and guardians have full account management rights, giving them complete oversight and control of their child's digital interactions within the app. We provide comprehensive protection for users under 18, implementing robust safety measures and strict access controls. Our approach strictly adheres to child online privacy regulations, including COPPA, to create a secure, age-appropriate educational platform that prioritizes the privacy and security of young users.
+## 5. Derechos y Opciones del Usuario
 
-Key protections include:
-- Full parental account management rights
-- Comprehensive user protection strategies
-- Strict compliance with child online privacy regulations
-- Age-appropriate content and feature access
-- Transparent data collection and usage policies
+Como usuario de **Estudi-bot**, usted es responsable de o puede:
 
-### 9. Changes to This Privacy Policy
+- Acceder y actualizar su información personal utilizando la aplicación.
+- Eliminar su cuenta y todos los datos relacionados en cualquier momento.
 
-We may update this Privacy Policy from time to time. When changes are significant, we will notify you via the app or email. Please review this page periodically for updates.
+La retención de datos se aplica sólo mientras su cuenta esté activa o según lo requieran razones legales.
 
-### 10. Contact Us
+---
 
-If you have any questions or concerns regarding this Privacy Policy, please contact us:
+## 6. Disponibilidad y Plataformas de la Aplicación
 
-**Lilas Solutions SpA**
-Email: **contact@lilas.solutions**
+**Estudi-bot** está disponible en múltiples plataformas para brindar acceso continuo en todos los dispositivos, incluyendo aplicaciones móviles para iOS y Android, así como a través de nuestra plataforma web en [lilas.solutions](https://lilas.solutions).
 
-By using **Study-bot**, you acknowledge that you have read and agree to this Privacy Policy.
+Actualmente, **Estudi-bot** es una aplicación gratuita.  
+En el futuro, planeamos ofrecer características basadas en suscripción a través de compras dentro de la aplicación en la Apple Store y Google Play.
+
+---
+
+## 7. Privacidad de Niños y Niñas
+
+**Estudi-bot** está destinado a estudiantes de diversas edades.  
+Si usted es un padre o tutor y cree que su hijo/a ha proporcionado datos personales sin consentimiento, comuníquese con nosotros a la dirección de correo electrónico que aparece al final de este documento.
+
+---
+
+## 8. Política de Usuarios Menores de Edad
+
+**Estudi-bot** se dedica a proporcionar un entorno digital seguro y protegido para jóvenes estudiantes. Reconocemos la importancia crítica de proteger las experiencias en línea de los menores. Nuestra Política de Usuario Menores garantiza que los padres y tutores tengan plenos derechos de gestión de cuentas, dándoles supervisión y control total sobre las interacciones digitales de su hijo/a dentro de la aplicación.
+
+Proporcionamos protección integral para los usuarios menores de 18 años, implementando medidas de seguridad robustas y controles de acceso estrictos. Nuestro enfoque se adhiere estrictamente a las regulaciones de privacidad infantil en línea, incluida la **COPPA**, para crear una plataforma educativa segura y apropiada para su edad que prioriza la privacidad y seguridad de los usuarios jóvenes.
+
+**Las protecciones clave incluyen:**
+
+- Plenos derechos de gestión de cuentas para padres.
+- Estrategias integrales de protección del usuario.
+- Cumplimiento estricto de las regulaciones de privacidad infantil en línea.
+- Acceso a contenido y características apropiadas para la edad.
+- Políticas transparentes de recopilación y uso de datos.
+
+---
+
+## 9. Cambios en Esta Política de Privacidad
+
+Podemos actualizar esta Política de Privacidad de vez en cuando. Cuando los cambios son significativos, le notificaremos a través de la aplicación o por correo electrónico.  
+Por favor, revise esta página periódicamente para actualizaciones.
+
+---
+
+## 10. Contáctenos
+
+Si tiene alguna pregunta o inquietud con respecto a esta Política de Privacidad, contáctenos a:
+
+**Lilas Solutions SpA**  
+Correo electrónico: [contact@lilas.solutions](mailto:contact@lilas.solutions)
+
+---
+
+Al usar **Estudi-bot**, usted reconoce que ha leído y acepta esta Política de Privacidad.
