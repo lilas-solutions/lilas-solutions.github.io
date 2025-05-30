@@ -4,9 +4,6 @@ layout: product_document_page
 parent: studybot/
 ---
 
-
-# Política de Privacidad de Estudi-bot
-
 *Última actualización: 12 de mayo de 2025*
 
 Lilas Solutions SpA ("nosotros," "nos," o "nuestro") respeta su privacidad y está comprometida a proteger su información personal. Esta Política de Privacidad explica cómo recopilamos, usamos y salvaguardamos sus datos cuando usted utiliza nuestra aplicación **Estudi-bot** disponible en iOS, Android y la web en [lilas.solutions](https://lilas.solutions). Al usar **Estudi-bot**, usted acepta las prácticas descritas en esta política.  

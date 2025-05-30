@@ -1,10 +1,8 @@
 ---
-title: "Términos de Servicio - Estudi-bot"
+title: "Términos y Condiciones de Servicio - Estudi-bot"
 layout: product_document_page
 parent: studybot/
 ---
-
-# Términos y Condiciones de Uso para Estudi-bot
 
 *Última actualización: 12 de mayo de 2025*
 
