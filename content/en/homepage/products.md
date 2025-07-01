@@ -24,4 +24,12 @@ Check our featured products!
     brief="Manage and plan the budget of your business, whether it is a product and/or service" 
 >}}
 
+{{< card
+    class="card-dark"
+    icon="/images/studybot-icon.png" 
+    name="Study-bot" 
+    more_info_url="studybot"
+    brief="Supports your study by generating tests with multiple choice questions, open-ended questions, timed challenges, and getting final scores, feedback on answers, and the areas you need to strengthen." 
+>}}
+
 {{< /card_row >}}
