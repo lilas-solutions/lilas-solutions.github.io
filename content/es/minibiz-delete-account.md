@@ -4,8 +4,6 @@ layout: product_document_page
 parent: minibiz/
 ---
 
-# Eliminación de Cuenta para Mini Empresa
-
 **Lilas Solutions SpA** ("nosotros", "nuestro" o "nuestra empresa") proporciona esta guía de eliminación de cuenta para ayudar a los usuarios a eliminar permanentemente su cuenta de **Mini Empresa** y los datos asociados en cumplimiento con las políticas de seguridad de datos de Google Play.
 
 ---

@@ -4,8 +4,6 @@ layout: product_document_page
 parent: studybot/
 ---
 
-# Eliminación de Cuenta para Estudi-bot
-
 **Lilas Solutions SpA** ("nosotros", "nuestro" o "nuestra empresa") proporciona esta guía de eliminación de cuenta para ayudar a los usuarios a eliminar permanentemente su cuenta de **Estudi-bot** y los datos asociados en cumplimiento con las políticas de seguridad de datos de Google Play.
 
 ---

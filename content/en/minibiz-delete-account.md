@@ -4,8 +4,6 @@ layout: product_document_page
 parent: minibiz/
 ---
 
-# Account Deletion for Mini Business
-
 **Lilas Solutions SpA** ("we," "us," or "our") provides this account deletion guide to help users permanently remove their **Mini Business** account and associated data in compliance with Google Play Data safety policies.
 
 ---

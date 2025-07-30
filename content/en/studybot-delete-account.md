@@ -4,8 +4,6 @@ layout: product_document_page
 parent: studybot/
 ---
 
-# Account Deletion for Study-bot
-
 **Lilas Solutions SpA** ("we," "us," or "our") provides this account deletion guide to help users permanently remove their **Study-bot** account and associated data in compliance with Google Play Data safety policies.
 
 ---
