@@ -12,6 +12,10 @@ En **Lilas Solutions**, su privacidad es importante para nosotros. Esta Polític
 
 ### 1. Información que Recopilamos
 
+**Información Personal**
+- Dirección de correo electrónico (usada para autenticación e identificación de cuenta)
+
+**Datos de Negocio**
 **Mini Empresa** almacena datos que los usuarios ingresan directamente en la aplicación. Esto incluye:
 - **Detalles de Ventas y Gastos**: Productos vendidos o comprados, precios, pagos y fechas de entrega.
 - **Información de Clientes y Proveedores**: Nombres, datos de contacto y direcciones de clientes y proveedores.

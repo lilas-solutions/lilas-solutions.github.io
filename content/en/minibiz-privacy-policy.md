@@ -12,6 +12,10 @@ At **Lilas Solutions**, your privacy is important to us. This Privacy Policy exp
 
 ### 1. Information We Collect
 
+**Personal Information**
+- Email address (used for account authentication and identification)
+
+**Business Data**
 **Mini Business** stores data that users directly input into the application. This includes:
 - **Sales and Expenses Details**: Products sold or purchased, prices, payments, and delivery dates.
 - **Client and Provider Information**: Names, contact details, and addresses of clients and providers.
