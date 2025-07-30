@@ -43,13 +43,11 @@ These safeguards are designed to provide a safe and secure educational experienc
 **Personal Information**
 
 When you register using your Google account, we collect and store the following information:
-- Full name (student or parent/guardian, if applicable, when user is under 18 years of age)
-- Email address (used for authentication)
-- Name of student (if user is under 18)
-- Age of student
-- Gender of student
-- Education level of student
-- Academic details of student such as grades, school/college subjects, and syllabus
+- Nickname (chosen by the user)
+- Email address (used for Google OAuth2 authentication)
+- Gender (optional, if provided by the user)
+- Study grade level (e.g., first grade, fifth grade, etc.)
+- Profile preferences (optional generic icon and color used as avatar in-app)
 
 **Study-bot** stores data that users directly input into the application. We do not collect any data automatically or from third-party sources.
 

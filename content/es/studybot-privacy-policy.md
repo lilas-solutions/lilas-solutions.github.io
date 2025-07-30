@@ -48,13 +48,11 @@ Estas medidas de seguridad están diseñadas para proporcionar una experiencia e
 
 Cuando se registra utilizando su cuenta de Google, recopilamos y almacenamos la siguiente información:
 
-- Nombre completo (del estudiante o del padre/tutor, si corresponde, cuando el usuario es menor de 18 años).
-- Dirección de correo electrónico (utilizada para la autenticación).
-- Nombre del estudiante (si el usuario es menor de 18 años).
-- Edad del estudiante.
-- Género del estudiante.
-- Nivel educativo del estudiante.
-- Detalles académicos del estudiante: calificaciones, materias de la escuela/colegio y plan de estudios.
+- Apodo/Nickname (elegido por el usuario)
+- Dirección de correo electrónico (utilizada para la autenticación Google OAuth2)
+- Género (opcional, si es proporcionado por el usuario)
+- Grado de estudio (ej., primer grado, quinto grado, etc.)
+- Preferencias de perfil (ícono genérico opcional y color usado como avatar en la aplicación)
 
 **Estudi-bot** almacena datos que los usuarios ingresan directamente en la aplicación.  
 No recopilamos ningún dato automáticamente ni de fuentes externas.
