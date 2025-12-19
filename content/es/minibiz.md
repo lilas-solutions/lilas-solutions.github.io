@@ -22,4 +22,4 @@ screenshots:
 
 Con **Mini Empresa**, podrás optimizar tu tiempo, mejorar tu organización y concentrarte en hacer crecer tu negocio. ¡Empieza hoy mismo y lleva el control completo de tus operaciones!
 
-Revisa los [Términos de Servicio](minibiz-terms-service) y la [Política de Privacidad](minibiz-privacy-policy) para más información.
+Revisa los [Términos de Servicio](minibiz-terms-service), la [Política de Privacidad](minibiz-privacy-policy) y la [Página de Soporte](minibiz-support) para preguntas frecuentes y soluciones.

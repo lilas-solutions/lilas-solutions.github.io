@@ -4,7 +4,7 @@ layout: product_document_page
 parent: minibiz/
 ---
 
-Effective Date: January 10th, 2025
+*Effective Date: December 19th, 2025*
 
 Welcome to **Mini Business**, an application developed and owned by **Lilas Solutions SpA** ("we," "our," or "us"). By using Mini Business, you agree to these Terms of Service ("Terms"). If you do not agree, please discontinue using the application.
 
@@ -27,23 +27,18 @@ Mini Business is intended for individuals who own or manage a business and can b
 
 ### 3. Data Collection and Usage
 
-#### **Data Collected**:
-Mini Business stores the following user-input data:
-- Sales and expenses details: Products sold or purchased, prices, payments, and delivery dates.
-- Client and provider information: Contacts, names, and addresses.
+#### **Data Collected**
+Mini Business stores user-input business data (sales, purchases, payments, delivery dates, client/supplier contacts) and account identifiers (email). AI document scanning, when used, processes uploaded images/PDFs to extract structured data; processing is handled by trusted providers as described in the [Privacy Policy](minibiz-privacy-policy).
 
-#### **Data Storage**:
+#### **Data Storage**
 - **Local Files**: Data is stored on the user’s device for offline use.
-- **Cloud Database**: Data is securely stored in a private database for enhanced functionality.
+- **Cloud Database**: For online features, data is stored securely in a private database to enable sync and multi-device access.
 
-#### **Data Usage**:
-The data is used to:
-- Provide summaries and reports to support business decision-making.
+#### **Data Usage**
+Data is used to operate the app, provide summaries and reports, enable sync, enforce plan limits, and (when enabled) process AI document scans.
 
-#### **Data Sharing**:
-We do not share user data with third parties.
-
-For more details on how we handle your data, please refer to our [Privacy Policy](minibiz-privacy-policy).
+#### **Data Sharing**
+We do not sell user data. Limited sharing with service providers occurs only to operate features (e.g., AI processing); see the [Privacy Policy](minibiz-privacy-policy) for details.
 
 ---
 
@@ -62,49 +57,70 @@ Prohibited activities include:
 
 ### 5. License and Ownership
 
-#### **Usage License**:
-We grant you a limited, non-exclusive, non-transferable license to use Mini Business. This license is subject to your compliance with these Terms.
+#### **Usage License**
+We grant you a limited, non-exclusive, non-transferable license to use Mini Business, subject to your compliance with these Terms.
 
-#### **Ownership**:
+#### **Ownership**
 All intellectual property rights in Mini Business, including but not limited to trademarks, content, and technology, remain the sole property of Lilas Solutions SpA.
 
 ---
 
-### 6. Pricing and Subscriptions
+### 6. Plans and Subscriptions
 
-Currently, Mini Business is free to use. In the future, we may introduce user tiers, including:
-- **Free Tier**: Test the app’s functionality in offline mode.
-- **Paid Tiers**: Access additional features, such as online data backup and advanced business functionalities.
-
-Details regarding pricing and subscription terms will be provided when these features are launched.
+- **Basic (free)**: 1 owned business, offline-only, no cloud sync, no AI document scanning, no team invitations. You may join Pro businesses as a member.
+- **Pro (paid)**: Up to 3 owned businesses, cloud sync and multi-device access, unlimited team invitations, AI document scanning (100 scans per business per month).
+- **Ownership vs membership**: Plan limits apply to owned businesses. Membership in other businesses is not limited. If a Pro subscription lapses, owned businesses revert to Basic capabilities until the subscription is restored.
+- **Pricing and payment**: Pro is sold as a subscription via app stores. Pricing, taxes, and currency are shown at purchase and may vary by region. We may offer promotional or trial periods as indicated in the store at purchase time.
 
 ---
 
-### 7. Limitation of Liability
+### 7. Billing, Renewal, and Cancellation
+
+- Subscriptions are billed through the platform where you purchase (e.g., App Store, Google Play). Platform terms govern billing, taxes, and refunds.
+- Unless otherwise stated, subscriptions renew automatically until canceled. You can cancel anytime in your store account settings; access continues through the paid period.
+- Downgrades or lapses convert owned businesses to Basic features; sync and AI features stop until Pro is restored.
+
+### 8. AI Features and Quotas
+
+- AI document scanning is available on Pro only and is subject to a monthly quota of 100 scans per business. Usage is tracked to enforce this limit.
+- Supported inputs include images (JPEG/PNG) and PDFs for extracting sales or purchase data. Always review extracted results before saving; AI output may contain errors.
+
+### 9. Sync, Multi-Device Use, and Availability
+
+- Basic operates offline and does not sync to the cloud. Pro enables cloud sync and multi-device access.
+- Sync depends on network availability; delays or temporary unavailability may occur. Changing active business triggers data reload and sync for that business.
+- In case of conflicting edits, the app may require you to choose between your version and the server version.
+
+### 10. Team Members and Invitations
+
+- Team invitations are available on Pro. Business owners manage invitations and member removal.
+- Invitation codes may expire and can be limited to a specific email. Members can add/edit business data as permitted by the app.
+
+### 11. Limitation of Liability
 
 We provide Mini Business "as is" and disclaim all warranties, express or implied, including but not limited to fitness for a particular purpose. Lilas Solutions SpA shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of the app.
 
 ---
 
-### 8. Termination
+### 12. Termination
 
 We reserve the right to terminate or suspend your access to Mini Business if you violate these Terms or engage in unauthorized use of the app. Termination does not waive any rights or remedies available to us under applicable law.
 
 ---
 
-### 9. Modifications to the Terms
+### 13. Modifications to the Terms
 
-We may update these Terms from time to time. Any changes will be communicated through the initial screen of the application. Continued use of the app after such modifications constitutes your acceptance of the revised Terms.
+We may update these Terms from time to time. Any changes will be communicated through the application. Continued use of the app after such modifications constitutes your acceptance of the revised Terms.
 
 ---
 
-### 10. Governing Law
+### 14. Governing Law
 
 These Terms shall be governed by and construed in accordance with the laws of Chile. Any disputes arising from these Terms shall be resolved in the courts of Chile.
 
 ---
 
-### 11. Contact Information
+### 15. Contact Information
 
 For questions or concerns regarding these Terms, please contact us:
 - **Lilas Solutions SpA**

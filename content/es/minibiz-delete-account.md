@@ -4,6 +4,8 @@ layout: product_document_page
 parent: minibiz/
 ---
 
+*Última actualización: 19 de diciembre de 2025*
+
 **Lilas Solutions SpA** ("nosotros", "nuestro" o "nuestra empresa") proporciona esta guía de eliminación de cuenta para ayudar a los usuarios a eliminar permanentemente su cuenta de **Mini Empresa** y los datos asociados en cumplimiento con las políticas de seguridad de datos de Google Play.
 
 ---
@@ -101,5 +103,3 @@ Tienes derecho a:
 - Presentar quejas ante las autoridades relevantes de protección de datos
 
 Al usar Mini Empresa, reconoces tu comprensión de este proceso de eliminación de cuenta y política de retención de datos.
-
-*Última actualización: 29 de julio, 2025*
