@@ -2,7 +2,6 @@
 title: "Estudi-bot"
 layout: product_page
 icon: "/images/studybot-icon.png"
-web-url: "https://studybot.lilas.solutions"
 screenshots:
     - "/images/es/studybot-screenshot-signin-es.png"
     - "/images/es/studybot-screenshot-profile-es.png"

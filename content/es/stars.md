@@ -2,7 +2,6 @@
 title: "Estrellas"
 layout: product_page
 icon: "/images/stars-icon.png"
-web-url: "https://stars.lilas.solutions"
 screenshots:
     - "/images/es/stars-screenshot-records-es.jpeg"
     - "/images/es/stars-screenshot-details-es.jpeg"

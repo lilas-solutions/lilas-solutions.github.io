@@ -62,7 +62,7 @@ enableEmoji = true
     invertSectionColors = false
 
     # Options used for automatic image generation. see: https://gohugo.io/content-management/image-processing/
-    image_options = "webp q90 lanczos photo"
+    image_options = "jpg q90 lanczos photo"
 
     # Use "page_title | site_title" for <title> tags
     # e.g. <title>Legal | Jane Doe - Nutrition Coach & Chef Consultant</title>

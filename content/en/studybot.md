@@ -2,7 +2,6 @@
 title: "Study-bot"
 layout: product_page
 icon: "/images/studybot-icon.png"
-web-url: "https://studybot.lilas.solutions"
 screenshots:
     - "/images/en/studybot-screenshot-signin.png"
     - "/images/en/studybot-screenshot-profile.png"

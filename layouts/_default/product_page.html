@@ -18,7 +18,24 @@
         </div>
         
         {{ .Content }}
-        <a class="btn site-menu" href='{{ .Param "web-url" }}'>{{ cond (eq $.Lang "es" ) "Empieza Ahora" "Start Now" }}</a>
+
+        <div class="store-badges">
+          {{ $gp := .Param "google-play-url" }}
+          {{ $as := .Param "app-store-url" }}
+          {{ $lang := $.Lang }}
+
+          {{ if $gp }}
+            <a class="store-badge" href='{{ $gp }}'><img class="store-badge-img" alt='{{ cond (eq $lang "es") "Consíguelo en Google Play" "Get it on Google Play" }}' src='/images/badges/googleplaybadge.png'/></a>
+          {{ else }}
+            <span class="store-badge store-badge-disabled"><img class="store-badge-img" alt='{{ cond (eq $lang "es") "Consíguelo en Google Play" "Get it on Google Play" }}' src='/images/badges/googleplaybadge.png'/></span>
+          {{ end }}
+
+          {{ if $as }}
+            <a class="store-badge" href='{{ $as }}'><img class="store-badge-img" alt='{{ cond (eq $lang "es") "Descárgalo en el App Store" "Download on the App Store" }}' src='/images/badges/applestorebadge.png'/></a>
+          {{ else }}
+            <span class="store-badge store-badge-disabled"><img class="store-badge-img" alt='{{ cond (eq $lang "es") "Descárgalo en el App Store" "Download on the App Store" }}' src='/images/badges/applestorebadge.png'/></span>
+          {{ end }}
+        </div>
       </section>
     </article>
   </main>
