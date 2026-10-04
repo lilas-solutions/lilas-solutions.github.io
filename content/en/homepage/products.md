@@ -32,4 +32,12 @@ Check our featured products!
     brief="Supports your study by generating tests with multiple choice questions, open-ended questions, timed challenges, and getting final scores, feedback on answers, and the areas you need to strengthen." 
 >}}
 
+{{< card
+    class="card-dark"
+    icon="/images/kartinglog-icon.png"
+    name="Karting Log"
+    more_info_url="kartinglog"
+    brief="Track your karting sessions, lap times, tracks and championships, and read results straight from a photo of the timing screen."
+>}}
+
 {{< /card_row >}}
