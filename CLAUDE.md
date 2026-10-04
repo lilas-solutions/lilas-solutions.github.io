@@ -12,7 +12,7 @@ These apply to **all** requests that involve content or code changes:
 
 Hugo static site serving as the marketing website for Lilas Solutions at `lilas.solutions`. Single-page scrolling design using the `hugo-scroll` theme (git submodule).
 
-Products showcased: MiniBiz, Stars, Study-bot
+Products showcased: MiniBiz, Stars, Study-bot, Karting Log
 Languages: Spanish (default), English
 Deploy: GitHub Actions → GitHub Pages
 
@@ -23,7 +23,7 @@ content/
   en/                          # English content
     _index.md                  # Homepage header
     homepage/                  # Sections: intro, products, services, contact
-    minibiz.md, stars.md, studybot.md  # Product pages
+    minibiz.md, stars.md, studybot.md, kartinglog.md  # Product pages
     *-terms-service.md, *-privacy-policy.md, *-delete-account.md  # Legal
   es/                          # Spanish content (mirrors English)
 layouts/
