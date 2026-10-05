@@ -31,6 +31,14 @@ header_menu: true
     more_info_url="studybot"
     brief="Apoya tu estudio, generando pruebas con alternativas, preguntas abiertas, contra reloj y obteniendo puntajes finales, comentarios sobre las respuestas y las áreas que debes reforzar" 
 >}}
+{{< card
+    class="card-dark"
+    icon="/images/kartinglog-icon.png"
+    name="Karting Log"
+    more_info_url="kartinglog"
+    brief="Registra tus sesiones de karting, tiempos de vuelta, pistas y campeonatos, y lee los resultados directamente desde una foto de la pantalla de tiempos."
+>}}
+
 {{< /card_row >}}
 
 
